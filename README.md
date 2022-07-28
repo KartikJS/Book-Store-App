@@ -10,7 +10,7 @@ React JS and uses firebase as a dummy backend to send/receive the Book cart data
 useDispatch, useSelector
 . This application was
 built using Redux toolkit for global state management and Action Creator
-Thunk for managing side effects.
+Thunk for sending/fetching data.
 The user can add required books to the cart
 ,view them in cart section as well as removing them cart sends data to backend in realtime.
 
