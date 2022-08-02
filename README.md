@@ -12,7 +12,7 @@ useDispatch, useSelector
 built using Redux toolkit for global state management and Action Creator
 Thunk for sending/fetching data.
 The user can add required books to the cart
-,view them in cart section as well as removing them cart sends data to backend in realtime.
+,view and remove them in cart section, cart updates in realtime.
 
 ## Built Using
 
