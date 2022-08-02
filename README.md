@@ -2,6 +2,10 @@
 
 ![App Screenshot](src/img/BookStoreApp.png)
 
+## Demo
+
+[View Demo](https://reactbookstoreapp.web.app/)
+
 ## About The Project
 
 Book Store is an application built using
